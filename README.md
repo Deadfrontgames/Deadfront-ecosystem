@@ -1,5 +1,7 @@
 # DEADFRONT
 
+Official CA pump.fun : BRRkH8Xka1ZdwhDbgDiHWeGKmb6B7jrE1ZMrRCj9pump
+
 > Enter the trenches. Survive. Loot. Dominate.
 
 Deadfront is a high-intensity Battle Royale experience built on Solana, where 100 players fight for survival in a relentless battlefield. Drop into the trenches, gather resources, build defenses, eliminate opponents, and become the last survivor standing.
